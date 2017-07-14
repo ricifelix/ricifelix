@@ -1,0 +1,16 @@
+header{
+  height: 75;
+  background: green;
+  text-align: center;
+  color: crimson; 
+}
+body{
+  background: yellowgreen; 
+}
+img{
+  height: 140px;
+  border: 3px solid;
+  float: right;
+  margin-left: 120 px;
+}
+h4{ color:red}
